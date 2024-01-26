@@ -1,0 +1,7 @@
+D:\DATA\Git Clone\Clone\CauTrucDuLieu-TimKiemSapXep\TimKiemSapXep\bin\Debug\TimKiemSapXep.exe.config
+D:\DATA\Git Clone\Clone\CauTrucDuLieu-TimKiemSapXep\TimKiemSapXep\bin\Debug\TimKiemSapXep.exe
+D:\DATA\Git Clone\Clone\CauTrucDuLieu-TimKiemSapXep\TimKiemSapXep\bin\Debug\TimKiemSapXep.pdb
+D:\DATA\Git Clone\Clone\CauTrucDuLieu-TimKiemSapXep\TimKiemSapXep\obj\Debug\TimKiemSapXep.csproj.AssemblyReference.cache
+D:\DATA\Git Clone\Clone\CauTrucDuLieu-TimKiemSapXep\TimKiemSapXep\obj\Debug\TimKiemSapXep.csproj.CoreCompileInputs.cache
+D:\DATA\Git Clone\Clone\CauTrucDuLieu-TimKiemSapXep\TimKiemSapXep\obj\Debug\TimKiemSapXep.exe
+D:\DATA\Git Clone\Clone\CauTrucDuLieu-TimKiemSapXep\TimKiemSapXep\obj\Debug\TimKiemSapXep.pdb
