@@ -5,3 +5,10 @@ D:\DATA\Git Clone\Clone\CauTrucDuLieu-TimKiemSapXep\TimKiemSapXep\obj\Debug\TimK
 D:\DATA\Git Clone\Clone\CauTrucDuLieu-TimKiemSapXep\TimKiemSapXep\obj\Debug\TimKiemSapXep.csproj.CoreCompileInputs.cache
 D:\DATA\Git Clone\Clone\CauTrucDuLieu-TimKiemSapXep\TimKiemSapXep\obj\Debug\TimKiemSapXep.exe
 D:\DATA\Git Clone\Clone\CauTrucDuLieu-TimKiemSapXep\TimKiemSapXep\obj\Debug\TimKiemSapXep.pdb
+D:\Visual Studio\Git\GIt Clone\CauTrucDuLieu-TimKiemSapXep\TimKiemSapXep\bin\Debug\TimKiemSapXep.exe.config
+D:\Visual Studio\Git\GIt Clone\CauTrucDuLieu-TimKiemSapXep\TimKiemSapXep\bin\Debug\TimKiemSapXep.exe
+D:\Visual Studio\Git\GIt Clone\CauTrucDuLieu-TimKiemSapXep\TimKiemSapXep\bin\Debug\TimKiemSapXep.pdb
+D:\Visual Studio\Git\GIt Clone\CauTrucDuLieu-TimKiemSapXep\TimKiemSapXep\obj\Debug\TimKiemSapXep.csproj.AssemblyReference.cache
+D:\Visual Studio\Git\GIt Clone\CauTrucDuLieu-TimKiemSapXep\TimKiemSapXep\obj\Debug\TimKiemSapXep.csproj.CoreCompileInputs.cache
+D:\Visual Studio\Git\GIt Clone\CauTrucDuLieu-TimKiemSapXep\TimKiemSapXep\obj\Debug\TimKiemSapXep.exe
+D:\Visual Studio\Git\GIt Clone\CauTrucDuLieu-TimKiemSapXep\TimKiemSapXep\obj\Debug\TimKiemSapXep.pdb
